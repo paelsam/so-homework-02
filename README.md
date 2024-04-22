@@ -2,11 +2,11 @@
 
 # Integrantes:
 
-- Andrés Felipe Alcántara Muñoz
-- Miguel Angel Salcedo Urián
-- Elkin Samir Angulo
-- Cristian Camilo Pinzón
-- Leonardo Cuadro López
+- Andrés Felipe Alcántara Muñoz: andres.alcantara@correounivalle.edu.co
+- Miguel Angel Salcedo Urián: salcedo.miguel@correounivalle.edu.co
+- Elkin Samir Angulo: elkin.angulo@correounivalle.edu.co
+- Cristian Camilo Pinzón: pinzon.cristian@correounivalle.edu.co
+- Leonardo Cuadro López: leonardo.cuadro@correounivalle.edu.co
 
 
 ### Introducción
