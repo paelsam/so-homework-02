@@ -1,5 +1,5 @@
 docker network create pg_network
-docker volume create --name pg_db   -Cristian
+docker volume create --name pg_db
 
 docker container run --network pg_network --name pg_server -e POSTGRES_PASSWORD=myStrong#Password -v pg_db:/var/lib/postgresql/data -d postgres:15-bookworm
 
@@ -25,7 +25,7 @@ exit
 
 docker container exec -it pg_client /bin/bash
 
-psql -h pg_server -p 5432 -U postgres tarea_db (Poner en la contraseña: myStrong#Password)
+psql -h pg_server -p 5432 -U postgres tarea_db
 
 SELECT * FROM pg_tabla;
 
